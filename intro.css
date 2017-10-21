@@ -1,9 +1,9 @@
 @font-face {
     font-family: 'Intro';
-    src:url('https://cdn.rawgit.com/kattergil/intro-webfont/master/Intro.ttf.woff') format('woff'),
-        url('https://cdn.rawgit.com/kattergil/intro-webfont/master/Intro.ttf.svg#Intro') format('svg'),
-        url('https://cdn.rawgit.com/kattergil/intro-webfont/master/Intro.ttf.eot'),
-        url('https://cdn.rawgit.com/kattergil/intro-webfont/master/Intro.ttf.eot?#iefix') format('embedded-opentype'); 
+    src:url('https://cdn.rawgit.com/kattergil/intro-webfont/4b1fc34e/Intro.ttf.woff') format('woff'),
+        url('https://cdn.rawgit.com/kattergil/intro-webfont/4b1fc34e/Intro.ttf.svg#Intro') format('svg'),
+        url('https://cdn.rawgit.com/kattergil/intro-webfont/4b1fc34e/Intro.ttf.eot'),
+        url('https://cdn.rawgit.com/kattergil/intro-webfont/4b1fc34e/Intro.ttf.eot?#iefix') format('embedded-opentype'); 
     font-weight: normal;
     font-style: normal;
 }
